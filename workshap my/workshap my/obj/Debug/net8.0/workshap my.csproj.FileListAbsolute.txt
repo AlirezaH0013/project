@@ -1,0 +1,14 @@
+E:\C# demo\workshap my\workshap my\bin\Debug\net8.0\workshap my.exe
+E:\C# demo\workshap my\workshap my\bin\Debug\net8.0\workshap my.deps.json
+E:\C# demo\workshap my\workshap my\bin\Debug\net8.0\workshap my.runtimeconfig.json
+E:\C# demo\workshap my\workshap my\bin\Debug\net8.0\workshap my.dll
+E:\C# demo\workshap my\workshap my\bin\Debug\net8.0\workshap my.pdb
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.AssemblyInfoInputs.cache
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.AssemblyInfo.cs
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.csproj.CoreCompileInputs.cache
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.dll
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\refint\workshap my.dll
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.pdb
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\workshap my.genruntimeconfig.cache
+E:\C# demo\workshap my\workshap my\obj\Debug\net8.0\ref\workshap my.dll
